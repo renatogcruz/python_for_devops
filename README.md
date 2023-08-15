@@ -1,18 +1,5 @@
 # Python For DevOps: Learn Ruthlessly Effective Automation
-#### Publisher:  [O'Reilly Media](http://shop.oreilly.com/product/0636920274902.do)
-#### Release Date:  December 31st, 2019
 
-![Python for Unix and Linux System Administration](https://www.noahgift.com/img/python_devops.png)
-* [Buy a Physical Copy from Amazon](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation-dp-149205769X/dp/149205769X)
-* [Buy a Kindle Copy from Amazon](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation-ebook-dp-B082P97LDW/dp/B082P97LDW)
-* [Buy a Physical Copy from Barnes and Noble](https://www.barnesandnoble.com/w/python-for-devops-noah-gift/1132124390?ean=9781492057697#/)
-* [Buy a Nook Book Copy from Barnes and Noble](https://www.barnesandnoble.com/w/python-for-devops-noah-gift/1132124390?ean=9781492057642#/)
-* [Read Online](http://shop.oreilly.com/product/0636920274902.do)
-* [Download Source Code from Github](https://github.com/paiml/python_devops_book)
-* [Python for DevOps Website](https://pythondevops.com/)
-
-#### Build Status
-[![CircleCI](https://circleci.com/gh/paiml/python_devops_book.svg?style=svg)](https://circleci.com/gh/paiml/python_devops_book)
 
 ### Abstract
 Much has changed in technology over the past decade. Data is hot, the cloud is ubiquitous, and many organizations need some form of automation. Throughout these transformations, Python has become one of the most popular languages in the world. This practical resource shows you how to use Python for everyday Linux systems administration tasks with today’s most useful DevOps tools, including Docker, Kubernetes, and Terraform.
@@ -81,22 +68,16 @@ Updates on new material post book release.
 
 * [Addendum](https://paiml.github.io/python_devops_book/docs/addendum.md)
 
-## Contact Authors
+## Reference
 
 ### Noah Gift
 
 * [Noah Gift Website](https://noahgift.com)
 * [Noah Gift Linkedin](https://www.linkedin.com/in/noahgift)
-* [Sign up for Pragmatic Labs Mailing List](https://newsletter.paiml.com/social)
-* [Read other books by Noah Gift](https://www.noahgift.com/books/latest/)
-* [Take courses by Noah Gift](https://www.noahgift.com/courses/latest/)
-* [Watch Videos by Noah Gift](https://www.noahgift.com/videos/latest/)
 * [Take the Foundations of Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
 * [Take the Specialization: Building Cloud Computing Solutions at Scale Specialization](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
 
-#### 📺 Latest YouTube Videos
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
+#### 📺 YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Rust for MLOps with Amazon Sagemaker](https://www.youtube.com/watch?v=crtU6mGydXc)
@@ -107,15 +88,3 @@ Updates on new material post book release.
 - [Assimilate-Bash](https://www.youtube.com/watch?v=-86h9DX-3Jo)
 - [Assimilate-Haskell](https://www.youtube.com/watch?v=4GUGvGXIzAs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-
-### Kennedy Behrman
-
-* [Kennedy Behrman Linkedin](https://www.linkedin.com/in/kennedybehrman/)
-
-### Alfredo Deza
-
-* [Alfredo Deza](https://www.alfredodeza.com/)
-
-### Grig Gheorghiu
-
-* [Grig Gheorghiu](https://www.linkedin.com/in/ggheorghiu/)
